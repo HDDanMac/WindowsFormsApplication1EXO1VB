@@ -1,4 +1,4 @@
-﻿'Daniel  asdf
+﻿'Daniel 
 Public Class Form1
 
     Dim Reduction1 As Integer = 0
